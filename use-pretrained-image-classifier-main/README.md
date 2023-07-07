@@ -1,1 +1,0 @@
-# use-pretrained-image-classifier
